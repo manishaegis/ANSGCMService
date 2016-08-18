@@ -1,0 +1,19 @@
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe" "C:\Users\Rohit1\Desktop\WindowsService\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe"
+
+installutil /u "C:\Users\Rohit1\Desktop\WindowsService\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe"
+
+installutil "E:\Other Projects\GCMService\GCMService\bin\Debug\GCMService.exe"
+
+
+
+AIzaSyBA15mQANG4jh6YSFt-9zynMaNpevX2WhY
+APA91bHvRvKq-w0FVN6YfYICNrKHdDL3V7uxWiMjKDyUT4ucawV_e5tXVkpof_XPM1YCFFOjmL6jluUSZ8ETbmdpwr6C3PljxxkHe5XK8lIvuLNmz8Fzc7PFa2WJ5GNGBIk9NmLh_C3H
+144922059628
+
+
+442931676738 
+AIzaSyCnr6b1afqjiBVdP-ih7TPyfW7V_Zng_14
+
+
+
+installutil "C:\ServiceIBeatsLink\GCMService.exe"

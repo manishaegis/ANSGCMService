@@ -1,0 +1,11 @@
+E:\Other Projects\GCMService\GCMService\bin\Debug\GCMService.exe.config
+E:\Other Projects\GCMService\GCMService\bin\Debug\GCMService.exe
+E:\Other Projects\GCMService\GCMService\bin\Debug\GCMService.pdb
+E:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.ProjectInstaller.resources
+E:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.csproj.GenerateResource.Cache
+E:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.exe
+E:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.pdb
+E:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.csprojResolveAssemblyReference.cache
+D:\Other Projects\GCMService\GCMService\bin\Debug\GCMService.exe.config
+D:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.exe
+D:\Other Projects\GCMService\GCMService\obj\Debug\GCMService.pdb
